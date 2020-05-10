@@ -1,0 +1,30 @@
+﻿  complexOutput.cpp
+c:\users\john\source\repos\complexoutput\complexoutput\complexoutput.cpp(88): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  c:\users\john\source\repos\complexoutput\complexoutput\complexoutput.cpp(86): note: while compiling class template member function 'MyComplex<int>::MyComplex(T)'
+          with
+          [
+              T=int
+          ]
+  c:\users\john\source\repos\complexoutput\complexoutput\complexoutput.cpp(113): note: see reference to function template instantiation 'MyComplex<int>::MyComplex(T)' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\john\source\repos\complexoutput\complexoutput\complexoutput.cpp(111): note: see reference to class template instantiation 'MyComplex<int>' being compiled
+c:\users\john\source\repos\complexoutput\complexoutput\complexoutput.cpp(77): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  c:\users\john\source\repos\complexoutput\complexoutput\complexoutput.cpp(76): note: while compiling class template member function 'MyComplex<int>::MyComplex(void)'
+  c:\users\john\source\repos\complexoutput\complexoutput\complexoutput.cpp(111): note: see reference to function template instantiation 'MyComplex<int>::MyComplex(void)' being compiled
+c:\users\john\source\repos\complexoutput\complexoutput\complexoutput.cpp(78): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  complexOutput.vcxproj -> C:\Users\JOHN\source\repos\complexOutput\Debug\complexOutput.exe
